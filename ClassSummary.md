@@ -4,7 +4,7 @@
 | Allie Efferson       | -    |
 | Bryan Garcia         | -    |
 | Chandler Grajeda     | ✔    |
-| Chase Worthington    | ⚠️    |
+| Chase Worthington    | ✔    |
 | Erica Valentine      | -    |
 | Jessica Hall         | -    |
 | John Dellagnese      | -    |
