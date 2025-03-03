@@ -1,7 +1,7 @@
 | Students             | A1   |
 | -------------------- | ---- |
 | Affan Haq            | -    |
-| Allie Efferson       | -    |
+| Allie Efferson       | ✔    |
 | Bryan Garcia         | -    |
 | Chandler Grajeda     | ✔    |
 | Chase Worthington    | ✔    |
