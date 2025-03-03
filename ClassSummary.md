@@ -1,4 +1,4 @@
-| Stucents             | A1   |
+| Students             | A1   |
 | -------------------- | ---- |
 | Affan Haq            | -    |
 | Allie Efferson       | -    |
@@ -18,7 +18,9 @@
 | Tanner Day           | -    |
 | Vonda Joseph         | -    |
 
-
+- ✔: Submitted
+- ⚠️: Submitted with error
+- -: Not submitted
 
 <br><br>
 <strong>Assignment 1: Create Your Personal Webpage (Due Marth 3th)</strong>
