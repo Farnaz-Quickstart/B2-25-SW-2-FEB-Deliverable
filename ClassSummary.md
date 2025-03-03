@@ -11,7 +11,7 @@
 | Joshua Pierson       | -    |
 | Kameron Handy        | -    |
 | Manuel Musquiz       | -    |
-| Michael McCombs      | -    |
+| Michael McCombs      | ✔    |
 | Robert Taylor        | ✔    |
 | Roberto Huerta       | -    |
 | Simone Jackson       | -    |
