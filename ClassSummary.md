@@ -3,8 +3,8 @@
 | Affan Haq            | -    |
 | Allie Efferson       | -    |
 | Bryan Garcia         | -    |
-| Chandler Grajeda     | -    |
-| Chase Worthington    | -    |
+| Chandler Grajeda     | ✔    |
+| Chase Worthington    | ⚠️    |
 | Erica Valentine      | -    |
 | Jessica Hall         | -    |
 | John Dellagnese      | -    |
@@ -12,7 +12,7 @@
 | Kameron Handy        | -    |
 | Manuel Musquiz       | -    |
 | Michael McCombs      | -    |
-| Robert Taylor        | -    |
+| Robert Taylor        | ✔    |
 | Roberto Huerta       | -    |
 | Simone Jackson       | -    |
 | Tanner Day           | -    |
