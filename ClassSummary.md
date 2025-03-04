@@ -2,7 +2,7 @@
 | -------------------- | ---- |
 | Affan Haq            | -    |
 | Allie Efferson       | ✔    |
-| Bryan Garcia         | -    |
+| Bryan Garcia         | ✔    |
 | Chandler Grajeda     | ✔    |
 | Chase Worthington    | ✔    |
 | Erica Valentine      | -    |
@@ -13,10 +13,10 @@
 | Manuel Musquiz       | -    |
 | Michael McCombs      | ✔    |
 | Robert Taylor        | ✔    |
-| Roberto Huerta       | -    |
+| Roberto Huerta       | ⚠️    |
 | Simone Jackson       | -    |
-| Tanner Day           | -    |
-| Vonda Joseph         | -    |
+| Tanner Day           | ⚠️    |
+| Vonda Joseph         | ✔    |
 
 - ✔: Submitted
 - ⚠️: Submitted with error
