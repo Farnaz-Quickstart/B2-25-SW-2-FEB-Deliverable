@@ -1,7 +1,7 @@
 | Students             | A1   | A2  |
 | -------------------- | ---- |-----|
 | Affan Haq            | -    | -   |
-| Allie Efferson       | ✔    | -   |
+| Allie Efferson       | ✔    | ✔   |
 | Bryan Garcia         | ✔    | ✔   |
 | Chandler Grajeda     | ✔    | ✔   |
 | Chase Worthington    | ✔    | -   |
@@ -12,7 +12,7 @@
 | Kameron Handy        | -    | -   |
 | Manuel Musquiz       | -    | -   |
 | Michael McCombs      | ✔    | -   |
-| Robert Taylor        | ✔    | -   |
+| Robert Taylor        | ✔    | ✔   |
 | Roberto Huerta       | ✔    | -   |
 | Simone Jackson       | -    | -   |
 | Tanner Day           | ✔    | -   |
