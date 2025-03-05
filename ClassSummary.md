@@ -1,4 +1,4 @@
-| Students             | A1   |A2   |
+| Students             | A1   | A2  |
 | -------------------- | ---- |-----|
 | Affan Haq            | -    | -   |
 | Allie Efferson       | ✔    | -   |
@@ -33,3 +33,12 @@ Create an HTML page in your workspace that introduces yourself. Your webpage sho
 “My Hobbies” – Describe your hobbies.
 “My Goals” – Share your future goals and aspirations.
 Bonus Challenge: Try to figure out how to add an image to your webpage!
+
+
+<strong>Assignment 2: Login page (Due Marth 5th)</strong>
+
+Create a new file named login.html and add a form with the following requirements:
+
+Two input fields: username and password
+The form should use the GET method
+On clicking the submit button, the form should direct the user to index.htm
