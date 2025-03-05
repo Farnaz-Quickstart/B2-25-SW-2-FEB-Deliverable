@@ -2,8 +2,8 @@
 | -------------------- | ---- |-----|
 | Affan Haq            | -    | -   |
 | Allie Efferson       | ✔    | -   |
-| Bryan Garcia         | ✔    | -   |
-| Chandler Grajeda     | ✔    | -   |
+| Bryan Garcia         | ✔    | ✔   |
+| Chandler Grajeda     | ✔    | ✔   |
 | Chase Worthington    | ✔    | -   |
 | Erica Valentine      | -    | -   |
 | Jessica Hall         | -    | -   |
@@ -16,7 +16,7 @@
 | Roberto Huerta       | ✔    | -   |
 | Simone Jackson       | -    | -   |
 | Tanner Day           | ✔    | -   |
-| Vonda Joseph         | ✔    | -   |
+| Vonda Joseph         | ✔    | ✔   |
 
 - ✔: Submitted
 - ⚠️: Submitted with error
