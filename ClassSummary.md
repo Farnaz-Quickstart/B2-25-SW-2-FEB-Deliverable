@@ -6,14 +6,14 @@
 | Chandler Grajeda     | ✔    | ✔   |
 | Chase Worthington    | ✔    | -   |
 | Erica Valentine      | -    | -   |
-| Jessica Hall         | -    | -   |
+| Jessica Hall         | ✔    | -   |
 | John Dellagnese      | -    | -   |
 | Joshua Pierson       | ✔    | ✔   |
 | Kameron Handy        | -    | -   |
 | Manuel Musquiz       | -    | -   |
 | Michael McCombs      | ✔    | -   |
 | Robert Taylor        | ✔    | ✔   |
-| Roberto Huerta       | ✔    | -   |
+| Roberto Huerta       | ✔    | ✔   |
 | Simone Jackson       | -    | -   |
 | Tanner Day           | ✔    | -   |
 | Vonda Joseph         | ✔    | ✔   |
