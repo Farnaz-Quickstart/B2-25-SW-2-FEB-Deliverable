@@ -1,6 +1,6 @@
 | Students             | A1   | A2  |
 | -------------------- | ---- |-----|
-| Affan Haq            | -    | -   |
+| Affan Haq (*)        | -    | -   |
 | Allie Efferson       | ✔    | ✔   |
 | Bryan Garcia         | ✔    | ✔   |
 | Chandler Grajeda     | ✔    | ✔   |
@@ -9,13 +9,13 @@
 | Jessica Hall         | ✔    | -   |
 | John Dellagnese      | -    | -   |
 | Joshua Pierson       | ✔    | ✔   |
-| Kameron Handy        | -    | -   |
+| Kameron Handy        | ✔    | ✔   |
 | Manuel Musquiz       | -    | -   |
 | Michael McCombs      | ✔    | -   |
 | Robert Taylor        | ✔    | ✔   |
 | Roberto Huerta       | ✔    | ✔   |
-| Simone Jackson       | -    | -   |
-| Tanner Day           | ✔    | -   |
+| Simone Jackson (*)   | -    | -   |
+| Tanner Day           | ✔    | ✔   |
 | Vonda Joseph         | ✔    | ✔   |
 
 - ✔: Submitted
