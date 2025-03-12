@@ -1,4 +1,4 @@
-# Firstname Lastname 
+# Kameron Handy, Student
 <img src="./assets/farnazTowhidi.jpeg" style="width:180px"/>
 
 ### Assignments 
