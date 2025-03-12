@@ -1,4 +1,4 @@
-# Farnaz Towhidi 
+# Farnaz Towhidi, Web Developer 
 <img src="./assets/farnazTowhidi.jpeg" style="width:180px"/>
 
 ### Assignments 
