@@ -1,4 +1,4 @@
-# Joshua Pierson
+# Joshua Pierson, Student
 <img src="" style="width:180px"/>
 
 ### Assignments 
