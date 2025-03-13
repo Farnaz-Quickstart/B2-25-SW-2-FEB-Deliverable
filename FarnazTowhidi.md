@@ -1,4 +1,4 @@
-# Farnaz Towhidi, Web Developer 
+# Farnaz Towhidi, Web Developer of quickstart
 <img src="./assets/farnazTowhidi.jpeg" style="width:180px"/>
 
 ### Assignments 
