@@ -1,4 +1,4 @@
-# Firstname Lastname 
+# Erica Valentine
 <img src="./assets/farnazTowhidi.jpeg" style="width:180px"/>
 
 ### Assignments 

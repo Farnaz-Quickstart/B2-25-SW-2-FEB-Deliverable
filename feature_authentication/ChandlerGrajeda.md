@@ -1,4 +1,4 @@
-# Firstname Lastname 
+# Chandler Grajeda, Student of QuickStart 
 <img src="./assets/farnazTowhidi.jpeg" style="width:180px"/>
 
 ### Assignments 
