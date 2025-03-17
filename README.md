@@ -1,24 +1,4 @@
 # Cohort Deliverable
-- Affan Haq
-- Allie Efferson
-- Bryan Garcia
-- Chandler Grajeda
-- Chase Worthington
-- Erica Valentine
-- Jeremiah Monroe
-- Jessica Hall
-- John Dellagnese
-- Joshua Pierson
-- Kameron Handy
-- Manuel Musquiz
-- Michael McCombs
-- Robert Taylor
-- Roberto Huerta
-- Simone Jackson
-- Sumitra Thapa
-- Tanner Day
-- Vonda Joseph
-
 | Students             | A1   | A2  |
 | -------------------- | ---- |-----|
 | Affan Haq (*)        | -    | -   |
@@ -38,6 +18,7 @@
 | Simone Jackson (*)   | -    | -   |
 | Tanner Day           | ✔    | ✔   |
 | Vonda Joseph         | ✔    | ✔   |
+
 
 - ✔: Submitted
 - ⚠️: Submitted with error
