@@ -1,4 +1,4 @@
-# Robert Taylor 
+# Robert Taylor, Software Engineering Studet 
 <img src="./assets/robt.jpg" style="width:180px"/>
 
 ### Assignments 
