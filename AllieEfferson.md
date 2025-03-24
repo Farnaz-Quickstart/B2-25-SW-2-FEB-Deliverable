@@ -4,4 +4,4 @@
 ### Assignments 
 - **Assignment 1:** [Assignment 1](./Assignments/Assignment_Html.pdf)\
 - ### Projects 
-- **Project 1:** [Assignment 1](./Assignments/Assignment_Html.pdf)
+- **Project 1:** [Project 1](./Assignments/Assignment_Html.pdf)
