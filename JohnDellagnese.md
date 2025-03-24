@@ -1,4 +1,4 @@
-# Firstname Lastname 
+# John Dell'Agnese
 <img src="./assets/farnazTowhidi.jpeg" style="width:180px"/>
 
 ### Assignments 
