@@ -3,5 +3,5 @@
 
 ### Assignments 
 - **Assignment 1:** [Assignment 1](./Practice_HTML/Index.html)
-- ### Projects 
+### Projects 
 - **Project 1:** [Project 1](./Assignments/Assignment_Html.pdf)
