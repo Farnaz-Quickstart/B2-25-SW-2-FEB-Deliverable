@@ -1,5 +1,6 @@
-# Firstname Lastname 
-<img src="./assets/farnazTowhidi.jpeg" style="width:180px"/>
+# Kameron Handy, Student 12
+
 
 ### Assignments 
-- **Assignment 1:** [Assignment 1](./Assignments/Assignment_Html.pdf)
+**Assignment 1:** [Assignment 1](./Assignments/Assignment_Html.pdf)
+
