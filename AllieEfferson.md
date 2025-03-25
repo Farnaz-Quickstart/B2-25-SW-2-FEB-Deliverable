@@ -1,5 +1,5 @@
 # Allie Efferson
-<img src=".\Desktop\Workspace\AllieEfferson.jpeg" style="width:180px"/>
+<img src=".C:\Users\allie\OneDrive\Desktop\Workspace\AllieEfferson.jpg" style="width:180px"/>
 
 ### Assignments 
 - **Assignment 1:** [Assignment 1](./Practice_HTML/Index.html)
