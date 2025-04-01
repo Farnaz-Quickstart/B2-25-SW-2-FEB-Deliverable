@@ -1,4 +1,5 @@
 # Erica Valentine, Student
 
 ### Assignments 
-- **Assignment 1:** [Project1]
+- **Assignment 1:**
+- **Project 1:**
