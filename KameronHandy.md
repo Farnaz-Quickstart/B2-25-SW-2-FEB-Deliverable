@@ -2,4 +2,4 @@
 
 ### Assignments 
 - **Assignment 1:** [Assignment 1](./Assignments/Assignment_Html.pdf)
-- **Project1** [Project 1]
+- **Project1** [[https://github.com/KameronHandy/Project1]

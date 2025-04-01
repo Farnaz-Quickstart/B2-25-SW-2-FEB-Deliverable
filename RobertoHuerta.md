@@ -1,5 +1,7 @@
-# Firstname Lastname 
-<img src="./assets/farnazTowhidi.jpeg" style="width:180px"/>
+# Roberto Huerta 
+
 
 ### Assignments 
 - **Assignment 1:** [Assignment 1](./Assignments/Assignment_Html.pdf)
+
+### Projects

@@ -1,5 +1,7 @@
-# Firstname Lastname 
-<img src="./assets/farnazTowhidi.jpeg" style="width:180px"/>
 
+# Chase Worthington
 ### Assignments 
-- **Assignment 1:** [Assignment 1](./Assignments/Assignment_Html.pdf)
+Assignment 1: [https://github.com/chaseworth611/Assignment1]
+
+### Projects
+Project 1: [https://github.com/chaseworth611/Project1]

@@ -1,5 +1,8 @@
-# Firstname Lastname 
-<img src="./assets/farnazTowhidi.jpeg" style="width:180px"/>
+# Bryan Garcia 
+<img src="./assets/BryanG.jpg" style="width:180px"/>
 
 ### Assignments 
-- **Assignment 1:** [Assignment 1](./Assignments/Assignment_Html.pdf)
+- Assignment 1: [https://github.com/bxgarcia/Assignment1]
+
+### Projects 
+- Project 1: [https://github.com/bxgarcia/Project1]
