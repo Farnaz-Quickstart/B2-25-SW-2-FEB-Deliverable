@@ -1,9 +1,9 @@
-# Tanner Day 
+# Mebin Beharry
 
 
 ### Assignments 
-- Assignment 1: [https://github.com/TannerDay/Assignment1]
+- Assignment 1: 
 
 ### Projects 
-- Project 1: [https://github.com/TannerDay/Project1]
+- Project 1: [https://github.com/mebinbeharry/project1.git]
 
