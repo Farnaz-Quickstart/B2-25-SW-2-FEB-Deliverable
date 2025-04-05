@@ -1,24 +1,25 @@
 # Cohort Deliverable
-| Students             | A1   | A2  |  P1 |  A3 |
-| -------------------- | ---- |-----|-----|-----|
-| Affan Haq            | -    | -   |  -  |  -  |
-| Allie Efferson       | ✔    | ✔   |  ✔  |  -  |
-| Bryan Garcia         | ✔    | ✔   |  ✔  |  -  |
-| Chandler Grajeda     | ✔    | ✔   |  ✔  |  -  |
-| Chase Worthington    | ✔    | -   |  -  |  -  |
-| Erica Valentine      | -    | -   |  ✔  |  -  |
-| Jessica Hall         | ✔    | -   |  -  |  -  |
-| John Dellagnese      | -    | -   |  ✔  |  -  |
-| Joshua Pierson       | ✔    | ✔   |  ✔  |  ✔  |
-| Kameron Handy        | ✔    | ✔   |  -  |  -  |
-| Manuel Musquiz       | -    | -   |  -  |  -  |
-| Mebin Beharry        | -    | -   |  -  |  -  |
-| Michael McCombs      | ✔    | -   |  -  |  -  |
-| Robert Taylor        | ✔    | ✔   |  ✔  |  -  |
-| Roberto Huerta       | ✔    | ✔   |  -  |  -  |
-| Simone Jackson       | -    | -   |  -  |  -  |
-| Tanner Day           | ✔    | ✔   |  -  |  -  |
-| Vonda Joseph         | ✔    | ✔   |  -  |  -  |
+| Students             |   D  |  A1 |  A2 |  P1 |  A3 |
+| -------------------- | ---- |-----|-----|-----|-----|
+| Affan Haq            |  -   |  -  | -   | -   |  -  |
+| Allie Efferson       |  ✔   | ✔   | ✔   |  ✔  |  -  |
+| Bryan Garcia         |  ✔   | ✔   | ✔   |  ✔  |  -  |
+| Chandler Grajeda     |  ✔   | ✔   | ✔   |  ✔  |  -  |
+| Chase Worthington    |  ✔   | ✔   | -   |  -  |  -  |
+| Erica Valentine      |  ✔   | -   | -   |  ✔  |  -  |
+| Jalesia Shelby       |  -   | -   | -   |  -  |  -  |
+| Jessica Hall         |  ✔   | ✔   | -   |  -  |  -  |
+| John Dellagnese      |  ✔   | -   | -   |  ✔  |  -  |
+| Joshua Pierson       |  ✔   | ✔   | ✔   |  ✔  |  ✔  |
+| Kameron Handy        |  ✔   | ✔   | ✔   |  -  |  -  |
+| Manuel Musquiz       |  -   | -   | -   |  -  |  -  |
+| Mebin Beharry        |  ✔   | -   | -   |  -  |  -  |
+| Michael McCombs      |  -   | ✔   | -   |  -  |  -  |
+| Robert Taylor        |  ✔   | ✔   | ✔   |  ✔  |  -  |
+| Roberto Huerta       |  ✔   | ✔   | ✔   |  -  |  -  |
+| Sebastian London     |  -   | -   | -   |  -  |  -  |
+| Simone Jackson       |  -   | -   | -   |  -  |  -  |
+| Tanner Day           |  ✔   | ✔   | ✔   |  -  |  -  |
 
 
 ✔: Submitted<br>
