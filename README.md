@@ -12,6 +12,7 @@
 | Joshua Pierson       | ✔    | ✔   |
 | Kameron Handy        | ✔    | ✔   |
 | Manuel Musquiz       | -    | -   |
+| Mebin Beharry        | -    | -   |
 | Michael McCombs      | ✔    | -   |
 | Robert Taylor        | ✔    | ✔   |
 | Roberto Huerta       | ✔    | ✔   |
