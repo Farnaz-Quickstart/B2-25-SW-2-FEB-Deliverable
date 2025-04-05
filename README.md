@@ -9,7 +9,7 @@
 | Erica Valentine      |  ✔   | -   | -   |  ✔  |  -  |
 | Jalesia Shelby       |  -   | -   | -   |  -  |  -  |
 | Jessica Hall         |  ✔   | ✔   | -   |  -  |  -  |
-| John Dellagnese      |  ✔   | -   | -   |  ✔  |  -  |
+| John Dellagnese      |  ✔   | ✔   | ✔   |  ✔  |  -  |
 | Joshua Pierson       |  ✔   | ✔   | ✔   |  ✔  |  ✔  |
 | Kameron Handy        |  ✔   | ✔   | ✔   |  -  |  -  |
 | Manuel Musquiz       |  -   | -   | -   |  -  |  -  |
