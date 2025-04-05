@@ -4,4 +4,4 @@
 ### Assignments 
 - **Assignment 1:** [https://github.com/Joshua-Pierson/Assigment1.git]
 - **Project 1:** [https://github.com/Joshua-Pierson/Project1-Pizza.git]
-    
+- **JavaScript Assignment:** [https://github.com/Joshua-Pierson/JavaScript-Assignment.git]
