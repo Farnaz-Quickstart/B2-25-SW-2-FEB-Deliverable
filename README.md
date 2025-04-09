@@ -1,25 +1,25 @@
 # Cohort Deliverable
-| Students             |   D  |  A1 |  A2 |  P1 |  A3 |
-| -------------------- | ---- |-----|-----|-----|-----|
-| Affan Haq            |  -   |  -  | -   | -   |  -  |
-| Allie Efferson       |  ✔   | ✔   | ✔   |  ✔  |  -  |
-| Bryan Garcia         |  ✔   | ✔   | ✔   |  ✔  |  -  |
-| Chandler Grajeda     |  ✔   | ✔   | ✔   |  ✔  |  -  |
-| Chase Worthington    |  ✔   | ✔   | -   |  -  |  -  |
-| Erica Valentine      |  ✔   | -   | -   |  ✔  |  -  |
-| Jalesia Shelby       |  -   | -   | -   |  -  |  -  |
-| Jessica Hall         |  ✔   | ✔   | -   |  -  |  -  |
-| John Dellagnese      |  ✔   | ✔   | ✔   |  ✔  |  -  |
-| Joshua Pierson       |  ✔   | ✔   | ✔   |  ✔  |  ✔  |
-| Kameron Handy        |  ✔   | ✔   | ✔   |  -  |  -  |
-| Manuel Musquiz       |  -   | -   | -   |  -  |  -  |
-| Mebin Beharry        |  ✔   | -   | -   |  -  |  -  |
-| Michael McCombs      |  -   | ✔   | -   |  -  |  -  |
-| Robert Taylor        |  ✔   | ✔   | ✔   |  ✔  |  -  |
-| Roberto Huerta       |  ✔   | ✔   | ✔   |  -  |  -  |
-| Sebastian London     |  -   | -   | -   |  -  |  -  |
-| Simone Jackson       |  -   | -   | -   |  -  |  -  |
-| Tanner Day           |  ✔   | ✔   | ✔   |  -  |  -  |
+| Students             |   D  |  A1 |  A2 |  P1 |  A3 | A4 |
+| -------------------- | ---- |-----|-----|-----|-----|----|
+| Affan Haq            |  -   |  -  | -   | -   |  -  | -  |
+| Allie Efferson       |  ✔   | ✔   | ✔   |  ✔  |  -  | -  |
+| Bryan Garcia         |  ✔   | ✔   | ✔   |  ✔  |  -  | -  |
+| Chandler Grajeda     |  ✔   | ✔   | ✔   |  ✔  |  -  | -  |
+| Chase Worthington    |  ✔   | ✔   | -   |  -  |  -  | -  |
+| Erica Valentine      |  ✔   | -   | -   |  ✔  |  -  | -  |
+| Jalesia Shelby       |  -   | -   | -   |  -  |  -  | -  |
+| Jessica Hall         |  ✔   | ✔   | -   |  -  |  -  | -  |
+| John Dellagnese      |  ✔   | ✔   | ✔   |  ✔  |  -  | -  |
+| Joshua Pierson       |  ✔   | ✔   | ✔   |  ✔  |  ✔  | ✔  |
+| Kameron Handy        |  ✔   | ✔   | ✔   |  -  |  -  | -  |
+| Manuel Musquiz       |  -   | -   | -   |  -  |  -  | -  |
+| Mebin Beharry        |  ✔   | -   | -   |  -  |  -  | -  |
+| Michael McCombs      |  -   | ✔   | -   |  -  |  -  | -  |
+| Robert Taylor        |  ✔   | ✔   | ✔   |  ✔  |  -  | -  |
+| Roberto Huerta       |  ✔   | ✔   | ✔   |  -  |  -  | -  |
+| Sebastian London     |  -   | -   | -   |  -  |  -  | -  |
+| Simone Jackson       |  -   | -   | -   |  -  |  -  | -  |
+| Tanner Day           |  ✔   | ✔   | ✔   |  -  |  -  | -  |
 
 
 ✔: Submitted<br>
@@ -60,4 +60,17 @@ name (string), age (number), isEnrolled (boolean)
 4. Whether the third student is enrolled.
 Use typeof to log the data type of each property of the first student.
 
-<hr>
+## Assignment 4: JavaScript Comparison (Due April 9th) 
+Create a simple program that takes a student’s name and score, and returns their grade based on the following rules:
+Score Range    Grade
+- 90 - 100.          A
+- 80 - 89.            B
+- 70 - 79             C
+### Requirements:
+Use a variable to store the student’s name.
+Use a variable to store the student’s score.
+Create a function called getGrade(score) that returns the grade.
+Use if/else with comparison operators to determine the grade.
+Print a message like:
+Hello John, your score is 85 and your grade is B.
+ 
