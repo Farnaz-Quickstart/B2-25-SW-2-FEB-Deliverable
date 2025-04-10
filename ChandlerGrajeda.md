@@ -1,4 +1,4 @@
-# Chandler Grajeda, Software Engineering Student
+# Chandler Grajeda, Junior Software Engineering Student
 
 ### Assignments 
 - **Assignment 1:** [Assignment 1](./Assignments/Assignment_Html.pdf)
