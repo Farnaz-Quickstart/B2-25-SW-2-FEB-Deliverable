@@ -4,6 +4,7 @@
 
 ### Assignments 
 - **Assignment 1:** (https://github.com/aceff149/Assignment-1.git)
+- **Assignment 2:** (https://github.com/aceff149/Assignment-2-Login.git)
 - **Assignment 3 & 4:** (https://github.com/aceff149/Javascript_Assignment1.git)
 
 ### Projects
