@@ -4,7 +4,7 @@
 
 ### Assignments 
 - **Assignment 1:** [Assignment 1](http://127.0.0.1:5500/Index.html)
-- **Assignment 3:** (https://github.com/aceff149/Javascript_Assignment1.git)
+- **Assignment 3:** (https://github.com/aceff149/Javascript_Assignment1/Script/Assignment1_Objects.js)
 - **Assignment 4:** (https://github.com/aceff149/Javascript_Assignment1/Script/gradingSystemWithArray.js)
 ### Projects
   - **Project 1:** Project 1 (https://github.com/aceff149/Project1.git)
