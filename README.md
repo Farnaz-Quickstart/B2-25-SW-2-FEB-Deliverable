@@ -11,7 +11,7 @@
 | Jessica Hall         |  ✔   | ✔   | -   |  -  |  -  | -  |
 | John Dellagnese      |  ✔   | ✔   | ✔   |  ✔  |  -  | -  |
 | Joshua Pierson       |  ✔   | ✔   | ✔   |  ✔  |  ✔  | ✔  |
-| Kameron Handy        |  ✔   | ✔   | ✔   |  -  |  -  | -  |
+| Kameron Handy        |  ✔   | ✔   | ✔   |  ✔  |  -  | -  |
 | Manuel Musquiz       |  -   | -   | -   |  -  |  -  | -  |
 | Mebin Beharry        |  ✔   | -   | -   |  -  |  -  | -  |
 | Michael McCombs      |  -   | ✔   | -   |  -  |  -  | -  |
