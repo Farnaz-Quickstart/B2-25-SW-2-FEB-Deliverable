@@ -2,9 +2,9 @@
 | Students             |   D  |  A1 |  A2 |  P1 |  A3 | A4 |
 | -------------------- | ---- |-----|-----|-----|-----|----|
 | Affan Haq            |  -   |  -  | -   | -   |  -  | -  |
-| Allie Efferson       |  ✔   | ✔   | ✔   |  ✔  |  -  | -  |
+| Allie Efferson       |  ✔   | ✔   | ✔   |  ✔  |  ✔  | ✔  |
 | Bryan Garcia         |  ✔   | ✔   | ✔   |  ✔  |  -  | -  |
-| Chandler Grajeda     |  ✔   | ✔   | ✔   |  ✔  |  -  | -  |
+| Chandler Grajeda     |  ✔   | ✔   | ✔   |  ✔  |  ✔  | ✔  |
 | Chase Worthington    |  ✔   | ✔   | -   |  -  |  -  | -  |
 | Erica Valentine      |  ✔   | -   | -   |  ✔  |  -  | -  |
 | Jalesia Shelby       |  -   | -   | -   |  -  |  -  | -  |
