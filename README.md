@@ -1,5 +1,5 @@
 # Cohort Deliverable
-| Students             |   D  |  A1 |  A2 |  P1 |  A3 | A4 |
+<!-- | Students             |   D  |  A1 |  A2 |  P1 |  A3 | A4 |
 | -------------------- | ---- |-----|-----|-----|-----|----|
 | Affan Haq            |  -   |  -  | -   | -   |  -  | -  |
 | Allie Efferson       |  ✔   | ✔   | ✔   |  ✔  |  ✔  | ✔  |
@@ -24,7 +24,7 @@
 
 ✔: Submitted<br>
 ⚠️: Submitted with error<br>
-: Not submitted
+: Not submitted -->
 
 
 ## Assignment 1: Create Your Personal Webpage (Due Marth 3th)
