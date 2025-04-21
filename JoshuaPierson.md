@@ -7,3 +7,4 @@
 
 ### Projects
 - **Project 1:** [https://github.com/Joshua-Pierson/Project1-Pizza.git]
+- **Project 2:** [#]
