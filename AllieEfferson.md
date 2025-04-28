@@ -6,7 +6,8 @@
 - **Assignment 1:** (https://github.com/aceff149/Assignment-1.git)
 - **Assignment 2:** (https://github.com/aceff149/Assignment-2-Login.git)
 - **Assignment 3 & 4:** (https://github.com/aceff149/Javascript_Assignment1.git)
-- **Assingment 5:** (https://github.com/aceff149/JavaScript-Assignment-2.git)
+- **Assignment 5:** (https://github.com/aceff149/JavaScript-Assignment-2.git)
+- **Assignment 6:** (https://github.com/aceff149/BookListAssignment.git)
 
 ### Projects
   - **Project 1:** Project 1 (https://github.com/aceff149/Project1.git)
