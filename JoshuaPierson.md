@@ -9,4 +9,4 @@
 
 ### Projects
 - **Project 1:** [https://github.com/Joshua-Pierson/Project1-Pizza.git]
-- **Project 2:** [#]
+- **Project 2:** [https://github.com/Joshua-Pierson/Project2-Meme.git]
