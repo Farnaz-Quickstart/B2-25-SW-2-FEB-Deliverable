@@ -8,6 +8,7 @@
 - **Assignment 3 & 4:** (https://github.com/aceff149/Javascript_Assignment1.git)
 - **Assignment 5:** (https://github.com/aceff149/JavaScript-Assignment-2.git)
 - **Assignment 6:** (https://github.com/aceff149/BookListAssignment.git)
+- **Assignment 7:** (https://github.com/aceff149/Assignment1-React.git)
 
 ### Projects
   - **Project 1:** Project 1 (https://github.com/aceff149/Project1.git)
