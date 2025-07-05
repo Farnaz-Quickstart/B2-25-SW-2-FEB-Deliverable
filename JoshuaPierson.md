@@ -13,3 +13,4 @@
 - **Project 1:** [https://github.com/Joshua-Pierson/Project1-Pizza.git]
 - **Project 2:** [https://github.com/Joshua-Pierson/Project2-Meme.git]
 - **Project 3:** [https://github.com/Joshua-Pierson/react-project3-webapp.git]
+- **Project 4:** [https://github.com/Joshua-Pierson/project4-LoginReg.git]
